@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente buscando uma oportunidade em **Cloud e DevOps**
 
-- 🌱 Praticando Cloud e DevOps através de **Hands-on e imersões**
+- 🌱 Praticando Cloud e DevOps através do **The Cloud Bootcamp e a Formação Devops Pro**
 
 - 💬 Me pergunte e fale sobre **Cloud e DevOps**
 
