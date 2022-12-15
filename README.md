@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou André Elídio</h1>
-<h3 align="center">Apaixonado por Cloud e DevOps.</h3>
+<h3 align="center">Fascinado por Cloud e DevOps.</h3>
 
-- 🔭 Atualmente buscando uma oportunidade em **Cloud e DevOps**
+- 🔭 Atuando como DevOps**
 
 - 🌱 Praticando Cloud e DevOps através do **The Cloud Bootcamp e a Formação Devops Pro**
 
