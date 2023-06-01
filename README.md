@@ -9,7 +9,7 @@
 
 - 📫 Você me acha através do e-mail **andreelidio@gmail.com**
 
-- 📄 Onde pode encontrar as minhas habilidades [https://www.linkedin.com/in/andreelidio/](https://www.linkedin.com/in/andreelidio/)
+- 📄 Onde pode encontrar as minhas habilidades [https://www.linkedin.com/in/andreelidio/](https://www.linkedin.com/in/andreelidio/), [https://dev.to/andreelidio](https://dev.to/andreelidio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
