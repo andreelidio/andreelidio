@@ -5,7 +5,7 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=andreelidio&show_icons=true&count_private=true&hide_border=true&title_color=FFFF00&icon_color=00bfbf&text_color=c9d1d9&bg_color=000000" alt="André Elídio github stats" /> 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andreelidio&bg_color=05020d&color=f2e8e8&line=efe815&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andreelidio&bg_color=05020d&color=f2e8e8&line=efe815&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=andreelidio&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
